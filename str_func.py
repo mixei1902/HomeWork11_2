@@ -1,5 +1,5 @@
 def make_string_uppercase(input_string):
-    """Функция, которая принимает строку и возвращает ее в верхнем регистре"""
+    """Функция, которая принимает строку и возвращает ее в верхнем регистре test"""
     return input_string.upper()
 
 def capitalize_words(input_string):
